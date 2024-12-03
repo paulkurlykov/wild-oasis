@@ -13,7 +13,7 @@ import { useMoveBack } from "../../hooks/useMoveBack";
 import useBooking from "../bookings/useBooking";
 import Spinner from "../../ui/Spinner";
 import { useState, useEffect } from "react";
-import useCheckIn from "./useCHeckIn";
+import useCheckIn from "./useCheckIn";
 import useSettings from "../settings/useSettings";
 
 const Box = styled.div`
